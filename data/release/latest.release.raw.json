@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5178842,
       "digest": "sha256:c269d9cee68e378212624be96375291ed83779830f776cdcc867334afc76eafb",
-      "download_count": 80,
+      "download_count": 81,
       "created_at": "2025-09-20T19:39:31Z",
       "updated_at": "2025-09-20T19:39:31Z",
       "browser_download_url": "https://github.com/LeperGnome/bt/releases/download/v1.2.2/bt-linux-amd64.tar.gz"

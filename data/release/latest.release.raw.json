@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5036713,
       "digest": "sha256:6818f3019577851cf65fde0c2152f5295a84c7ee7016f6cf9d472c08073d7b2f",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-09-20T19:39:31Z",
       "updated_at": "2025-09-20T19:39:32Z",
       "browser_download_url": "https://github.com/LeperGnome/bt/releases/download/v1.2.2/bt-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5178842,
       "digest": "sha256:c269d9cee68e378212624be96375291ed83779830f776cdcc867334afc76eafb",
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2025-09-20T19:39:31Z",
       "updated_at": "2025-09-20T19:39:31Z",
       "browser_download_url": "https://github.com/LeperGnome/bt/releases/download/v1.2.2/bt-linux-amd64.tar.gz"

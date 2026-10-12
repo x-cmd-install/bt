@@ -14,14 +14,14 @@ x install bt
 
 ## Code insight
 
-Total: **1,629** lines of code across **19** files in the top 5 languages.
+Total: **1,657** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,617 | 54 | 222 | 13 |
-| Makefile | 11 | 0 | 6 | 1 |
+| Go | 1,644 | 53 | 225 | 13 |
+| Makefile | 12 | 0 | 6 | 1 |
 | Python | 1 | 0 | 0 | 1 |
-| Markdown | 0 | 95 | 23 | 1 |
+| Markdown | 0 | 97 | 23 | 1 |
 | Text | 0 | 6 | 3 | 3 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **1,629** lines of code across **19** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.2` (2025-09-20)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 166 · **Forks**: 14 · **Open issues**: 7 · **Contributors**: 2
+- **Stars**: 166 · **Forks**: 14 · **Open issues**: 7 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 17 · **Open PRs**: 11 · **Closed issues**: 2 · **Open issues**: 5 · **Commits**: 125
+- **Releases**: 5 · **Merged PRs**: 20 · **Open PRs**: 6 · **Closed issues**: 4 · **Open issues**: 3 · **Commits**: 128
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 1 | 0 | 0 | 1 | 1 |
-| last60d | 2026-08-12 | 0 | 1 | 0 | 0 | 1 | 1 |
-| 90d | 2026-07-13 | 0 | 1 | 0 | 0 | 1 | 1 |
-| last180d | 2026-04-14 | 0 | 1 | 3 | 0 | 1 | 1 |
-| 360d | 2025-10-16 | 0 | 1 | 5 | 0 | 2 | 1 |
-| last720d | 2024-10-21 | 4 | 16 | 8 | 0 | 4 | 44 |
+| 30d | 2026-09-12 | 0 | 2 | 0 | 1 | 0 | 4 |
+| last60d | 2026-08-13 | 0 | 2 | 0 | 1 | 0 | 4 |
+| 90d | 2026-07-14 | 0 | 2 | 0 | 1 | 0 | 4 |
+| last180d | 2026-04-15 | 0 | 3 | 2 | 1 | 0 | 4 |
+| 360d | 2025-10-17 | 0 | 3 | 4 | 2 | 0 | 4 |
+| last720d | 2024-10-22 | 4 | 19 | 5 | 2 | 2 | 47 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for bt lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:53:41Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:27:45Z._

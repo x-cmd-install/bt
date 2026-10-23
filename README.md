@@ -37,22 +37,22 @@ Total: **1,669** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 166 · **Forks**: 14 · **Open issues**: 7 · **Contributors**: 4
+- **Stars**: 166 · **Forks**: 14 · **Open issues**: 8 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 4 · **Open issues**: 3 · **Commits**: 132
+- **Releases**: 6 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 4 · **Open issues**: 4 · **Commits**: 132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 3 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-23 | 1 | 3 | 0 | 1 | 0 | 8 |
-| 90d | 2026-07-24 | 1 | 3 | 0 | 1 | 0 | 8 |
-| last180d | 2026-04-25 | 1 | 4 | 2 | 1 | 0 | 8 |
-| 360d | 2025-10-27 | 1 | 4 | 3 | 2 | 0 | 8 |
-| last720d | 2024-11-01 | 5 | 20 | 4 | 2 | 2 | 50 |
+| 30d | 2026-09-23 | 1 | 3 | 0 | 0 | 1 | 8 |
+| last60d | 2026-08-24 | 1 | 3 | 0 | 1 | 1 | 8 |
+| 90d | 2026-07-25 | 1 | 3 | 0 | 1 | 1 | 8 |
+| last180d | 2026-04-26 | 1 | 4 | 2 | 1 | 1 | 8 |
+| 360d | 2025-10-28 | 1 | 4 | 3 | 2 | 1 | 8 |
+| last720d | 2024-11-02 | 5 | 20 | 4 | 2 | 3 | 49 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for bt lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:58:14Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:01:21Z._

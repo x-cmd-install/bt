@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6971278,
       "digest": "sha256:97201bc57c42bddec9a622ac906cc3d5315922e3c5d76db95a65c969b3f9ac7f",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-10-13T00:13:08Z",
       "updated_at": "2026-10-13T00:13:08Z",
       "browser_download_url": "https://github.com/LeperGnome/bt/releases/download/v1.3.0/bt-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6352520,
       "digest": "sha256:aaad48ae23eb2afb241b4c4cad88233fb57af7b54a9590abdda623f1daeeb516",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-10-13T00:13:08Z",
       "updated_at": "2026-10-13T00:13:08Z",
       "browser_download_url": "https://github.com/LeperGnome/bt/releases/download/v1.3.0/bt-linux-arm64.tar.gz"

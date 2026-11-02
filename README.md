@@ -14,14 +14,14 @@ x install bt
 
 ## Code insight
 
-Total: **1,669** lines of code across **19** files in the top 5 languages.
+Total: **1,776** lines of code across **21** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,656 | 52 | 223 | 13 |
+| Go | 1,763 | 53 | 243 | 15 |
 | Makefile | 12 | 0 | 6 | 1 |
 | Python | 1 | 0 | 0 | 1 |
-| Markdown | 0 | 98 | 23 | 1 |
+| Markdown | 0 | 100 | 23 | 1 |
 | Text | 0 | 6 | 3 | 3 |
 
 ## Source
@@ -31,8 +31,8 @@ Total: **1,669** lines of code across **19** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.3.0` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Latest**: `v1.3.1` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,27 +41,27 @@ Total: **1,669** lines of code across **19** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 21 · **Open PRs**: 6 · **Closed issues**: 4 · **Open issues**: 4 · **Commits**: 132
+- **Releases**: 7 · **Merged PRs**: 22 · **Open PRs**: 5 · **Closed issues**: 5 · **Open issues**: 3 · **Commits**: 134
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 3 | 1 | 0 | 1 | 8 |
-| last60d | 2026-09-02 | 1 | 3 | 1 | 1 | 1 | 8 |
-| 90d | 2026-08-03 | 1 | 3 | 1 | 1 | 1 | 8 |
-| last180d | 2026-05-05 | 1 | 4 | 3 | 1 | 1 | 8 |
-| 360d | 2025-11-06 | 1 | 4 | 4 | 2 | 1 | 8 |
-| last720d | 2024-11-11 | 5 | 20 | 5 | 2 | 3 | 48 |
+| 30d | 2026-10-03 | 2 | 4 | 0 | 1 | 0 | 10 |
+| last60d | 2026-09-03 | 2 | 4 | 0 | 2 | 0 | 10 |
+| 90d | 2026-08-04 | 2 | 4 | 0 | 2 | 0 | 10 |
+| last180d | 2026-05-06 | 2 | 5 | 2 | 2 | 0 | 10 |
+| 360d | 2025-11-07 | 2 | 5 | 3 | 3 | 0 | 10 |
+| last720d | 2024-11-12 | 6 | 21 | 4 | 3 | 2 | 50 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bt-darwin-amd64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.0/bt-darwin-amd64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
-| [bt-darwin-arm64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.0/bt-darwin-arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [bt-linux-amd64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.0/bt-linux-amd64.tar.gz) | 6.6 MiB | `native/linux/x64` |
-| [bt-linux-arm64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.0/bt-linux-arm64.tar.gz) | 6.1 MiB | `native/linux/arm64` |
+| [bt-darwin-amd64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.1/bt-darwin-amd64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [bt-darwin-arm64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.1/bt-darwin-arm64.tar.gz) | 6.4 MiB | `native/darwin/arm64` |
+| [bt-linux-amd64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.1/bt-linux-amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [bt-linux-arm64.tar.gz](https://github.com/LeperGnome/bt/releases/download/v1.3.1/bt-linux-arm64.tar.gz) | 6.1 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for bt lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:22:30Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:40:45Z._

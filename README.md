@@ -47,12 +47,12 @@ Total: **1,776** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 1 | 1 | 1 | 0 | 2 |
-| last60d | 2026-09-16 | 2 | 4 | 1 | 2 | 0 | 10 |
-| 90d | 2026-08-17 | 2 | 4 | 1 | 2 | 0 | 10 |
-| last180d | 2026-05-19 | 2 | 5 | 3 | 2 | 0 | 10 |
-| 360d | 2025-11-20 | 2 | 5 | 4 | 3 | 0 | 10 |
-| last720d | 2024-11-25 | 6 | 19 | 5 | 3 | 2 | 46 |
+| 30d | 2026-10-17 | 1 | 1 | 1 | 1 | 0 | 2 |
+| last60d | 2026-09-17 | 2 | 4 | 1 | 2 | 0 | 10 |
+| 90d | 2026-08-18 | 2 | 4 | 1 | 2 | 0 | 10 |
+| last180d | 2026-05-20 | 2 | 5 | 3 | 2 | 0 | 10 |
+| 360d | 2025-11-21 | 2 | 5 | 4 | 3 | 0 | 10 |
+| last720d | 2024-11-26 | 6 | 19 | 5 | 3 | 2 | 46 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for bt lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:23:27Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:46:54Z._
